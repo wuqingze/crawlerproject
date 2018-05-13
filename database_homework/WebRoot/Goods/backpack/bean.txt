@@ -1,0 +1,8 @@
+name=backpack
+introduction=【京东超市】SWISSGEAR双肩背包 防水面料商务休闲双肩包笔记本电脑包15.6英寸 SA-9360III黑色
+details=商品名称：瑞士军刀双肩电脑背包商品编号：888556商品毛重：1.17kg商品产地：广州风格：商务，时尚潮流，运动外料材质：牛津布开袋方式：拉链颜色：黑色防水强度：防泼水里料质地：涤纶分类：双肩适用人群：青少年，中年适用场景：上下班
+count=1000
+price=149.00
+saleCount=0
+pictures=backpack1@backpack2@backpack3@backpack4
+category=bag

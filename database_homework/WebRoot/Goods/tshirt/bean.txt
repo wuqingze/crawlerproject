@@ -1,0 +1,8 @@
+name=tshirt
+introduction=Gap + Pendleton时尚男友风格纹双袋衬衫|女装241708 粉蓝格子 165/84A(XS)详见尺码表
+details=商品名称：Gap + Pendleton@商品编号：10732729302@店铺： Gap官方旗舰店@商品毛重：500.00g@货号：000241708@尺码：155@版型：直筒型@厚度：适中@领型：翻领@流行元素：简约@颜色：其它@袖长：长袖@袖型：常规@衣门襟：单排扣@衣长：常规款@类型：衬衫@材质：其它@上市时间：2016秋季
+count=1000
+price=209.00
+saleCount=0
+pictures=tshirt1@tshirt2@tshirt3@tshirt4
+category=tshirt

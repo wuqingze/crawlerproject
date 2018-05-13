@@ -1,0 +1,8 @@
+name=glasses
+introduction=雷朋眼镜框男板材近视眼镜男Rayban5296复古眼镜架全框光学镜架女可配变色近视镜防辐射 黑色
+details=商品名称：雷朋眼镜框男板材近视眼镜男Rayban5296复古眼镜架全框光学镜架女可配变色近视镜防辐射 黑色商品编号：10033194883店铺： 慧思盟眼镜专营店商品毛重：250.00g货号：RB5296D折射率：1.56（薄）风格：休闲材质：板材功能：近视边框：全框镜片材质：树脂镜面球面型：非球面分类：光学镜架适用人群：男士上市时间：往季
+count=1000
+price=299.00
+saleCount=0
+pictures=glasses1@glasses2@glasses3@glasses4
+category=glasses

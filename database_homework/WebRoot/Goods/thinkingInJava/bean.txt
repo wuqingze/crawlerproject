@@ -1,0 +1,8 @@
+name=thinkingInJava
+introduction=34838|现货包邮Java编程思想第4版/第四版中文版/thinking in java中文版/java编程思想/java编程/java语言/计算机教材/java书
+details=产品名称：Java编程思想第4版是否是套装: 否书名: Java编程思想第4版定价: 108.00元出版社名称: 机械工业出版社出版时间: 2013年5月作者: Bruce Eckel作者地区: 美国译者: 陈昊鹏开本: 16开书名: Java编程思想第4版ISBN编号: 9787111213826
+count=1000
+price=68.00
+saleCount=0
+pictures=thinkingInJava1@thinkingInJava2@thinkingInJava3@thinkingInJava4
+category=book

@@ -1,0 +1,8 @@
+name=coffee
+introduction=【京东超市】Nestle雀巢咖啡1+2原味罐装 1.2kg
+details=商品名称：雀巢1+2原味咖啡@商品编号：1230499@商品毛重：1.41kg@商品产地：中国大陆@重量：1000g以上@咖啡口味：原味咖啡@咖啡分类：速溶咖啡@是否含糖：含糖@奶茶口味：其它@包装单位：罐装产品@产地：中国大陆@分类：咖啡包装：独立包装@进口/国产：国产
+count=1000
+price=58.90
+saleCount=0
+pictures=coffee1@coffee2@coffee3@coffee4
+category=coffe

@@ -1,0 +1,8 @@
+name=jackets
+introduction=吉普盾Nian Jeep户外冲锋衣男三合一男两件套加厚保暖登山服大码 深蓝 XL(偏大一码)
+details=商品名称：吉普盾Nian Jeep户外冲锋衣男三合一男两件套加厚保暖登山服大码 深蓝 XL(偏大一码)商品编号：10830016920店铺： 牧鹿者户外专营店商品毛重：1.5kg商品产地：中国大陆货号：126BK9799尺码：XL主要功能：防水透气分类：冲锋衣面料科技：Gore-Tex适用人群：男士适用场景：郊游
+count=1000
+price=299.00
+saleCount=0
+pictures=jackets1@jackets2@jackets3@jackets4
+category=clothes

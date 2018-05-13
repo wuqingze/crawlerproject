@@ -1,0 +1,8 @@
+name=thinkpad
+introduction=ThinkPad X1 Carbon (20FBA00ACD) 14英寸超极笔记本电脑（i5-6200U 8G 256GB SSD FHD IPS Win10 64位）
+details=商品名称：ThinkPadX1 Carbon (20FBA00ACD)商品编号：2692574商品毛重：2.25kg商品产地：中国大陆系统：Windows 10厚度：15.1mm—20.0mm内存容量：8G分辨率：全高清屏（1920×1080）显卡型号：其他待机时长：5-7小时处理器：Intel i5低功耗版特性：背光键盘，指纹识别显卡类别：集成显卡裸机重量：1-1.5KG硬盘容量：256G固态显存容量：其他分类：轻薄本屏幕尺寸：14.0英寸
+count=1000
+price=9999.00
+saleCount=0
+pictures=thinkpad@thinkpad@thinkpad@thinkpad
+category=laptop

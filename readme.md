@@ -1,0 +1,9 @@
+database_homework 是J2EE建站的Java代码
+
+database_project 是向数据库中插入商品数据、商品标签、客户、订单的Python项目代码
+
+getproxiesIP 是爬取代理ip，基于scrapy框架的Python代码
+
+processIP 是验证爬取下来的IP是否可用，并将可用ip存入ip池，基于scrapy框架的Python代码
+
+jingdong  是爬取京东数据的爬虫，基于scrapy框架的Python代码

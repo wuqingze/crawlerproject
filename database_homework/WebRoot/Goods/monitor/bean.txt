@@ -1,0 +1,8 @@
+name=monitor
+introduction=LG 34UC88-B 34英寸21:9超宽屏曲面高分辨率IPS硬屏 爱眼不闪滤蓝光LED背光液晶显示器
+details=商品名称：LG34UC88-B@商品编号：2422709@商品毛重：12.15kg@商品产地：中国大陆@接口：HDMI，DP，USB扩展，其他@产品类型：英雄联盟/DOTA2(超宽视野)，高清电影/视频(超高分辨率)，其他@特征：2K，曲面屏，可壁挂，内置音箱，抗蓝光不闪@尺寸：30英寸以上面板：IPS比例：21:9
+count=1000
+price=5999.00
+saleCount=0
+pictures=monitor1@monitor2@monitor3@monitor4
+category=monitor

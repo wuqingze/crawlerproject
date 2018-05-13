@@ -1,0 +1,8 @@
+name=camera
+introduction=索尼（SONY） DSC-RX100 黑卡数码相机 2020万有效像素 等效28-100mm F1.8-F4.9蔡司镜头 1080P视频
+details=商品名称：索尼RX100@商品编号：676676@商品毛重：0.54kg@商品产地：中国无锡@分类：准专业机@液晶屏尺寸：3.0英寸
+count=1000
+price=2399.00
+saleCount=0
+pictures=camera1@camera2@camera3@camera4
+category=camera

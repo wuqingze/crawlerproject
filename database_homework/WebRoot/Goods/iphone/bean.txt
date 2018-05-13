@@ -1,0 +1,8 @@
+name=iphone
+introduction=Apple iPhone 7 Plus (A1661) 移动联通电信4G手机 银色 32GB
+details=商品名称：AppleiPhone7 Plus商品编号：10675889824店铺： 麦考利手机专营店商品毛重：380.00g系统：苹果（IOS）运行内存：其他前置摄像头像素：其他购买方式：其他后置摄像头像素：其他电池容量：2000mAh-2999mAh机身内存：无热点：后置双摄像头
+count=1000
+price=6088.00
+saleCount=0
+pictures=iphone1@iphone2@iphone3@iphone4
+category=phone
